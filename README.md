@@ -1,8 +1,8 @@
 # College-club-membership-management-system
 <div float="left">
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/168/datas/original.png" width="600">
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/167/datas/original.png" width="400" height="310">
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/166/datas/original.png" width="400" height="310">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/168/datas/original.png" width="500">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/167/datas/original.png" width="200" height="210">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/166/datas/original.png" width="200" height="210">
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/212/datas/original.png" width="600">
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/371/164/datas/original.png" >
 </div>
